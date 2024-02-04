@@ -18,7 +18,7 @@ When I click one of the links in the navigation the UI scrolls to the correspond
 When I resize the page or view the site on various screens and devices I am presented with a responsive layout that adapts to my viewport.
 Creation of the HTML and CSS files renders the following webpage
 
- ![Alt text](assets/images/profilewebpage.png)
+ ![Alt text](assets/images/Profile 1.png)
  
 ## Credits
 Many Thanks to the UCR Coding Bootcamp Academic team and my wonderful classmates for supporting me through my coding journey!
